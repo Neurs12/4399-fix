@@ -2,7 +2,7 @@
     "manifest_version": 3,
     "name": "4399 Fix",
     "version": "1.0",
-    "description": "Remove age and time limit.",
+    "description": "Remove age and time limit on 4399.com.",
     "permissions": [
         "declarativeNetRequest",
         "declarativeNetRequestFeedback"
