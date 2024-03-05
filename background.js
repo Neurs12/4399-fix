@@ -1,11 +1,13 @@
 chrome.declarativeNetRequest.updateDynamicRules({
     addRules: [{
-        id: 64846747,
+        id: 1,
+        priority: 1,
         action: {
             type: "block",
         },
         condition: {
             urlFilter: "*://*.4399.com/antijs/*",
         }
-    }]
+    }],
+    removeRuleIds: [1]
 });
