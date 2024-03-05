@@ -6,7 +6,7 @@ chrome.declarativeNetRequest.updateDynamicRules({
             type: "block",
         },
         condition: {
-            urlFilter: "*://*.4399.com/antijs/*",
+            urlFilter: "*://*.4399.com/antijs/Antiindulgence.js*",
         }
     }],
     removeRuleIds: [1]
